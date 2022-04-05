@@ -3,8 +3,9 @@
   "displayName": "Project G's Markdown Tools",
   "description": "Markdown Tools by Project G",
   "repository": "https://github.com/project-g-official/vsc-mdtools.git",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "projectg",
+  "icon": "rename.png",
   "license": "LICENSE",
   "engines": {
     "vscode": "^1.66.0"
