@@ -1,8 +1,11 @@
 {
-  "name": "projectg_markdown_tools",
+  "name": "projectg-markdown-tools",
   "displayName": "Project G's Markdown Tools",
   "description": "Markdown Tools by Project G",
+  "repository": "https://github.com/project-g-official/vsc-mdtools.git",
   "version": "0.0.1",
+  "publisher": "projectg",
+  "license": "LICENSE",
   "engines": {
     "vscode": "^1.66.0"
   },
@@ -57,6 +60,5 @@
     "typescript": "^4.5.5",
     "webpack": "^5.70.0",
     "webpack-cli": "^4.9.2"
-  },
-  "dependencies": {}
+  }
 }
